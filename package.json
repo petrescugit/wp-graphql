@@ -37,7 +37,7 @@
   "dependencies": {
     "@ant-design/icons": "4.7.0",
     "@apollo/client": "3.6.9",
-    "@wordpress/compose": "5.11.0",
+    "@wordpress/compose": "5.20.0",
     "@wordpress/hooks": "3.13.0",
     "antd": "4.21.6",
     "graphiql": "1.7.2",
